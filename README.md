@@ -46,11 +46,13 @@ A C++ project for file compression and decompression using Huffman coding. This 
    ./decode output.huff decoded.txt
    ```
 ## Requirements
--A C++ compiler (e.g., g++)
--Basic knowledge of the command line
+
+- A C++ compiler (e.g., g++)
+- Basic knowledge of the command line
 
 ## Future Improvements
--Support for multiple file formats.
--Add a GUI for ease of use.
--Improve compression efficiency.
+
+- Support for multiple file formats.
+- Add a GUI for ease of use.
+- Improve compression efficiency.
 
